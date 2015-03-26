@@ -1,0 +1,14 @@
+=encoding utf8
+
+=head1 jQuery Show/Hide Demo.
+
+This is a demo written for someone on IRC on how to show/hide multiple
+elements using jQuery (or JavaScript in general).
+
+Licence is MIT/X11.
+
+=head1 USAGE
+
+Type C<firefox ./jq_hide_show.html> or whatever your browser of choice is.
+
+=cut
